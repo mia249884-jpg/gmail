@@ -23,7 +23,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='repla
 # ==========================
 CONFIG_FILE = "config.json"
 DEFAULT_CONFIG = {
-    "bot_token": "8695687684:AAGxdI7SbDvELac9H3sa1Q7M2LzdwK4nP2k",
+    "bot_token": "8695687684:AAHNbbptzR_eFYm3aFiTwkZXK5RQk6_lJgg",
     "admin_ids": [576819773],
     "gmail_list": ["rukuplusfarhantelegramotobot@gmail.com", "xazxmdrukuplutelegramotpbot@gmail.com", "rukuvaitelegramotpbot@gmail.com", "rukuvaitelegramtgotpbot@gmail.com", "hdnsjsksgskajsysgdiduhdbsu@gmail.com", "rukualuotpbotvsksggens@gmail.com"
 ],
@@ -35,7 +35,7 @@ DEFAULT_CONFIG = {
     "otp_group": {"enabled": True, "link": "https://t.me/Gmail_otp_botx"},
     "group_bot": {
         "enabled": True,
-        "token": "8695687684:AAGxdI7SbDvELac9H3sa1Q7M2LzdwK4nP2k",
+        "token": "8695687684:AAHNbbptzR_eFYm3aFiTwkZXK5RQk6_lJgg",
         "group_id": "-1003939455952",
         "send_all_mail": True
     },
